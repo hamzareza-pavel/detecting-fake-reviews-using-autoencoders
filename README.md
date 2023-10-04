@@ -1,4 +1,4 @@
-# Movie Sentiment Analysis using Autoencoders
+# Detecting Fake Movie Reviews using Autoencoders
 Pre-requisites to run the provided source:
 
 1. nltk (Natural Language Toolkit)
